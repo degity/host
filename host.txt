@@ -29,6 +29,7 @@
 0.0.0.0 facebook.net
 0.0.0.0 flurry.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
