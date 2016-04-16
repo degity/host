@@ -5,6 +5,7 @@
 0.0.0.0 ampliture.com
 0.0.0.0 appsflyer.com
 0.0.0.0 apsalar.com
+0.0.0.0 assets.bwbx.io
 0.0.0.0 chartbeat.com
 0.0.0.0 clmbtech.com
 0.0.0.0 crashlytics.com
@@ -12,6 +13,7 @@
 0.0.0.0 crittercism.com
 0.0.0.0 doubleclick.net
 0.0.0.0 dowjoneson.com
+0.0.0.0 e.apsalar.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
 0.0.0.0 flurry.com
@@ -32,7 +34,9 @@
 0.0.0.0 nr-data.net
 0.0.0.0 parsely.com
 0.0.0.0 pinterest.com
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 scorecardresearch.com
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tune.com
