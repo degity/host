@@ -11,6 +11,7 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.mixpanel.com
 0.0.0.0 api.twitter.com
 0.0.0.0 app.adjust.com
 0.0.0.0 appsflyer.com
