@@ -5,6 +5,7 @@
 0.0.0.0 adjust.com
 0.0.0.0 adjust.io
 0.0.0.0 adlog.flurry.com
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 amplitude.com
 0.0.0.0 ampliture.com
