@@ -35,7 +35,7 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 helpshift.com
-0.0.0.0 inst.platforms.bing.com
+0.0.0.0 inst.platform.bing.com
 0.0.0.0 krxd.net
 0.0.0.0 leanplum.com
 0.0.0.0 linkedin.com
