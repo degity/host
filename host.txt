@@ -1,5 +1,6 @@
 #0.0.0.0 assets.bwbx.io
 0.0.0.0 52.11.232.15
+0.0.0.0 7336.engine.mobileapptracking.com
 0.0.0.0 acompli.helpshift.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.clmbtech.com
@@ -57,6 +58,7 @@
 0.0.0.0 linkedin.com
 0.0.0.0 localytics.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 newrelic.com
 0.0.0.0 nr-data.net
