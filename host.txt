@@ -85,4 +85,5 @@
 0.0.0.0 uservoice.com
 0.0.0.0 www.estrongs.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 zedo.com
