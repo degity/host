@@ -1,14 +1,15 @@
 #0.0.0.0 assets.bwbx.io
 0.0.0.0 52.11.232.15
 0.0.0.0 acompli.helpshift.com
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 adjust.com
 0.0.0.0 adjust.io
 0.0.0.0 adlog.flurry.com
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 amplitude.com
 0.0.0.0 ampliture.com
+0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.amplitude.com
@@ -66,6 +67,7 @@
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pinterest.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 profile.localytics.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 sb.scorecardresearch.com
@@ -74,6 +76,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 track.appsflyer.com
@@ -85,6 +88,7 @@
 0.0.0.0 urls.api.twitter.com
 0.0.0.0 uservoice.com
 0.0.0.0 www.estrongs.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.leanplum.com
 0.0.0.0 zedo.com
