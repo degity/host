@@ -1,3 +1,4 @@
+#0.0.0.0 assets.bwbx.io
 0.0.0.0 52.11.232.15
 0.0.0.0 acompli.helpshift.com
 0.0.0.0 ade.clmbtech.com
@@ -9,7 +10,6 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 appsflyer.com
 0.0.0.0 apsalar.com
-0.0.0.0 assets.bwbx.io
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 beacon.krxd.net
 0.0.0.0 by.uservoice.com
@@ -47,6 +47,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 pinterest.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 ssl.google-analytics.com
