@@ -38,6 +38,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dowjoneson.com
 0.0.0.0 e.apsalar.com
+0.0.0.0 e.crashlytics.com
 0.0.0.0 etapps.helpshift.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
