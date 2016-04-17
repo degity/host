@@ -1,6 +1,7 @@
 #0.0.0.0 assets.bwbx.io
 0.0.0.0 52.11.232.15
 0.0.0.0 7336.engine.mobileapptracking.com
+0.0.0.0 74.6.34.30
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
