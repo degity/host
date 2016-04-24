@@ -1,4 +1,3 @@
-
 #0.0.0.0 assets.bwbx.io
 0.0.0.0 52.11.232.15
 0.0.0.0 7336.engine.mobileapptracking.com
@@ -56,6 +55,8 @@
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 etapps.helpshift.com
+0.0.0.0 eventing.coursera.org
+0.0.0.0 events.appsflyer.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
 0.0.0.0 fls-na.amazon-adsystem.com
