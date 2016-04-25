@@ -36,6 +36,7 @@
 0.0.0.0 beacon.krxd.net
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 chartbeat.com
 0.0.0.0 clmbtech.com
 0.0.0.0 combine.urbanairship.com
@@ -128,6 +129,7 @@
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 www.estrongs.com
+0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.leanplum.com
