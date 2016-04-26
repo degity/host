@@ -31,6 +31,7 @@
 0.0.0.0 apps.skype.com
 0.0.0.0 appsflyer.com
 0.0.0.0 apsalar.com
+0.0.0.0 assets.pinterest.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 beacon.krxd.net
@@ -41,6 +42,7 @@
 0.0.0.0 clmbtech.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 conf.international.baidu.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 crashlytics.com
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
@@ -99,6 +101,7 @@
 0.0.0.0 pinterest.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
