@@ -40,6 +40,7 @@
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 chartbeat.com
 0.0.0.0 clmbtech.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 conf.international.baidu.com
 0.0.0.0 connect.facebook.net
@@ -96,6 +97,7 @@
 0.0.0.0 nrc.tapas.net
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 p.twitter.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 parsely.com
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pinterest.com
@@ -118,6 +120,10 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 static.chartbeat.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 static.parsely.com
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 t.appsflyer.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
@@ -135,6 +141,7 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 zedo.com
