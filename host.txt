@@ -42,6 +42,12 @@
 0.0.0.0 assets.pinterest.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bdplus.baidu.com
+0.0.0.0 beacon-1.newrelic.com
+0.0.0.0 beacon-2.newrelic.com
+0.0.0.0 beacon-3.newrelic.com
+0.0.0.0 beacon-4.newrelic.com
+0.0.0.0 beacon-5.newrelic.com
+0.0.0.0 beacon-6.newrelic.com
 0.0.0.0 beacon.krxd.net
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 by.uservoice.com
@@ -93,6 +99,7 @@
 0.0.0.0 ir-de.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir-uk.amazon-adsystem.com
+0.0.0.0 js-agent.newrelic.com
 0.0.0.0 krxd.net
 0.0.0.0 leanplum.com
 0.0.0.0 linkedin.com
