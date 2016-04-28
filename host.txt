@@ -35,6 +35,7 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.twitter.com
 0.0.0.0 app.adjust.com
 0.0.0.0 apps.ad-x.co.uk
@@ -160,6 +161,7 @@
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 tune.com
 0.0.0.0 twitter.com
 0.0.0.0 twittercounter.com
