@@ -6,6 +6,7 @@
 0.0.0.0 52.11.232.15
 0.0.0.0 7336.engine.mobileapptracking.com
 0.0.0.0 74.6.34.30
+0.0.0.0 OneDrive-Collection.device.mobileengagement.windows.net
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -32,6 +33,7 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.branch.io
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.twitter.com
 0.0.0.0 app.adjust.com
@@ -117,6 +119,7 @@
 0.0.0.0 newrelic.com
 0.0.0.0 nr-data.net
 0.0.0.0 nrc.tapas.net
+0.0.0.0 onedrive-onerm-events-primary-cus.servicebus.windows.net
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 p.twitter.com
 0.0.0.0 pagead.googlesyndication.com
@@ -162,6 +165,7 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 urls.api.twitter.com
 0.0.0.0 uservoice.com
+0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
