@@ -119,7 +119,9 @@
 0.0.0.0 newrelic.com
 0.0.0.0 nr-data.net
 0.0.0.0 nrc.tapas.net
+0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onedrive-onerm-events-primary-cus.servicebus.windows.net
+0.0.0.0 onedrive-onerm-events-secondary-ncus.servicebus.windows.net
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 p.twitter.com
 0.0.0.0 pagead.googlesyndication.com
