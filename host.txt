@@ -16,12 +16,15 @@
 0.0.0.0 acompli.helpshift.com
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.flurry.com
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 adjust.com
 0.0.0.0 adjust.io
 0.0.0.0 adlog.flurry.com
+0.0.0.0 adobemobiledev.sc.omtrdc.net
 0.0.0.0 ads.ak.facebook.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 adservices.google.com
 0.0.0.0 aidps.atdmt.com
@@ -69,7 +72,9 @@
 0.0.0.0 criteo.com
 0.0.0.0 crittercism.com
 0.0.0.0 data.flurry.com
+0.0.0.0 data.flurry.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 dev.flurry.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 doubleclick.net
@@ -77,6 +82,7 @@
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dps.bing.com
 0.0.0.0 dra.amazon-adsystem.com
+0.0.0.0 duapps.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 etapps.helpshift.com
@@ -146,6 +152,7 @@
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 sandbox.duapps.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scribe.twitter.com
