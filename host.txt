@@ -39,6 +39,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.twitter.com
+0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
 0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 apps.skype.com
