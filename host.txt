@@ -39,6 +39,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.twitter.com
+0.0.0.0 apiv2.moengage.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
 0.0.0.0 apps.ad-x.co.uk
@@ -94,6 +95,7 @@
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 flurry.com
+0.0.0.0 geoapi.moengage.com
 0.0.0.0 go.trouter.io
 0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -107,6 +109,7 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 img.phone.baidu.com
+0.0.0.0 inappapi.moengage.com
 0.0.0.0 inst.platform.bing.com
 0.0.0.0 ir-de.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
@@ -158,6 +161,7 @@
 0.0.0.0 scribe.twitter.com
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 smarttriggerapi.moengage.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.chartbeat.com
