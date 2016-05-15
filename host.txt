@@ -38,6 +38,7 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.taboola.com
 0.0.0.0 api.twitter.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 app-measurement.com
@@ -60,6 +61,7 @@
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.taboola.com
 0.0.0.0 chartbeat.com
 0.0.0.0 clmbtech.com
 0.0.0.0 cm.g.doubleclick.net
@@ -108,6 +110,7 @@
 0.0.0.0 helpshift.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 images.taboola.com
 0.0.0.0 img.phone.baidu.com
 0.0.0.0 inappapi.moengage.com
 0.0.0.0 inst.platform.bing.com
@@ -162,6 +165,7 @@
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 smarttriggerapi.moengage.com
+0.0.0.0 social.ndtv.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.chartbeat.com
@@ -172,6 +176,7 @@
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 trc.taboola.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 tune.com
 0.0.0.0 twitter.com
