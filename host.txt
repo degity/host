@@ -1,4 +1,5 @@
 #0.0.0.0 platform.twitter.com
+#0.0.0.0 syndication.twitter.com
 0.0.0.0 104.16.96.65
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 4.afs.googleadservices.com
@@ -37,6 +38,7 @@
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.branch.io
@@ -187,7 +189,6 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.parsely.com
 0.0.0.0 stats.g.doubleclick.net
-#0.0.0.0 syndication.twitter.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.co
 0.0.0.0 taboola.com
@@ -201,6 +202,7 @@
 0.0.0.0 twittercounter.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 urbanairship.com
+0.0.0.0 urls.api.twitter.com
 0.0.0.0 urls.api.twitter.com
 0.0.0.0 uservoice.com
 0.0.0.0 vortex.data.microsoft.com
