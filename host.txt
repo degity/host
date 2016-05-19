@@ -15,6 +15,7 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 acompli.helpshift.com
 0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.mo.doubleclick.net
@@ -27,6 +28,7 @@
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 adservices.google.com
+0.0.0.0 ag.tags.crwdcntrl.net
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amplitude.com
@@ -50,6 +52,8 @@
 0.0.0.0 apsalar.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bb.crwdcntrl.net
+0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon-2.newrelic.com
@@ -58,11 +62,15 @@
 0.0.0.0 beacon-5.newrelic.com
 0.0.0.0 beacon-6.newrelic.com
 0.0.0.0 beacon.krxd.net
+0.0.0.0 bebo.crwdcntrl.net
+0.0.0.0 blogtalkradio.crwdcntrl.net
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 cdn.crwdcntrl.net
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 celebslam.tags.crwdcntrl.net
 0.0.0.0 chartbeat.com
 0.0.0.0 clmbtech.com
 0.0.0.0 cm.g.doubleclick.net
@@ -76,6 +84,7 @@
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 criteo.com
 0.0.0.0 crittercism.com
+0.0.0.0 crwdcntrl.net
 0.0.0.0 data.flurry.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 dev.flurry.com
@@ -169,6 +178,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 smarttriggerapi.moengage.com
 0.0.0.0 social.ndtv.com
+0.0.0.0 somethingawful.crwdcntrl.net
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.chartbeat.com
@@ -180,6 +190,7 @@
 0.0.0.0 t.co
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
+0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 track.appsflyer.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 triggers.wfxtriggers.com
