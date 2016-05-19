@@ -1,4 +1,5 @@
 #0.0.0.0 platform.twitter.com
+0.0.0.0 104.16.96.65
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 4053494.fls.doubleclick.net
@@ -109,6 +110,7 @@
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 flurry.com
+0.0.0.0 gate.hockeyapp.net
 0.0.0.0 geoapi.moengage.com
 0.0.0.0 go.trouter.io
 0.0.0.0 google-analytics.com
