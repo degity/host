@@ -187,7 +187,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.parsely.com
 0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 syndication.twitter.com
+#0.0.0.0 syndication.twitter.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.co
 0.0.0.0 taboola.com
