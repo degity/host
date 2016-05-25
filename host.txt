@@ -124,6 +124,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 h.online-metrix.net
 0.0.0.0 helpshift.com
+0.0.0.0 history.google.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 images.taboola.com
