@@ -37,6 +37,7 @@
 0.0.0.0 ampliture.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics.localytics.com
+0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.twitter.com
@@ -74,6 +75,7 @@
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 celebslam.tags.crwdcntrl.net
+0.0.0.0 cf.c.ooyala.com
 0.0.0.0 chartbeat.com
 0.0.0.0 clmbtech.com
 0.0.0.0 cm.g.doubleclick.net
@@ -136,11 +138,13 @@
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 krxd.net
+0.0.0.0 l.ooyala.com
 0.0.0.0 leanplum.com
 0.0.0.0 linkedin.com
 0.0.0.0 localytics.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 metrics-api.librato.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
@@ -165,6 +169,7 @@
 0.0.0.0 pinterest.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 player.ooyala.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
