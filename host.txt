@@ -1,4 +1,5 @@
 #0.0.0.0 platform.twitter.com
+#0.0.0.0 player.ooyala.com
 #0.0.0.0 syndication.twitter.com
 0.0.0.0 104.16.96.65
 0.0.0.0 1435575.fls.doubleclick.net
@@ -90,6 +91,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 crittercism.com
 0.0.0.0 crwdcntrl.net
+0.0.0.0 cws.conviva.com
 0.0.0.0 data.flurry.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 dev.flurry.com
@@ -169,7 +171,6 @@
 0.0.0.0 pinterest.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.facebook.com
-0.0.0.0 player.ooyala.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
