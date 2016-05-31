@@ -44,6 +44,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.loop.ms
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.taboola.com
@@ -83,6 +84,7 @@
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 common.duapps.com
 0.0.0.0 conf.international.baidu.com
+0.0.0.0 config.loop.ms
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crashlytics.com
