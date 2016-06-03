@@ -173,6 +173,7 @@
 0.0.0.0 pinterest.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -198,6 +199,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.parsely.com
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.co
 0.0.0.0 taboola.com
