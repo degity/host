@@ -1,6 +1,3 @@
-#0.0.0.0 platform.twitter.com
-#0.0.0.0 player.ooyala.com
-#0.0.0.0 syndication.twitter.com
 0.0.0.0 104.16.96.65
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 4.afs.googleadservices.com
@@ -70,6 +67,7 @@
 0.0.0.0 beacon.krxd.net
 0.0.0.0 bebo.crwdcntrl.net
 0.0.0.0 blogtalkradio.crwdcntrl.net
+0.0.0.0 brahe.apptimize.com
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.amazon-adsystem.com
@@ -148,6 +146,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 md-a-s.apptimize.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -157,6 +156,7 @@
 0.0.0.0 newrelic.com
 0.0.0.0 nr-data.net
 0.0.0.0 nrc.tapas.net
+0.0.0.0 oms.dowjoneson.com
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onedrive-onerm-events-primary-cus.servicebus.windows.net
 0.0.0.0 onedrive-onerm-events-secondary-ncus.servicebus.windows.net
