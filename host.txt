@@ -44,6 +44,7 @@
 0.0.0.0 api.loop.ms
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.oneaudience.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.twitter.com
 0.0.0.0 apiv2.moengage.com
@@ -103,6 +104,7 @@
 0.0.0.0 dps.bing.com
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 duapps.com
+0.0.0.0 dxp.baidu.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 etapps.helpshift.com
@@ -147,6 +149,7 @@
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 md-a-s.apptimize.com
+0.0.0.0 mdroidapps.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mobile-collector.newrelic.com
