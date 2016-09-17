@@ -156,6 +156,7 @@
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobileapptracking.com
+0.0.0.0 my.mobfox.com
 0.0.0.0 newrelic.com
 0.0.0.0 nr-data.net
 0.0.0.0 nrc.tapas.net
@@ -192,6 +193,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scribe.twitter.com
 0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 sdk.starbolt.io
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 smarttriggerapi.moengage.com
 0.0.0.0 social.ndtv.com
