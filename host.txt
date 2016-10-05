@@ -26,6 +26,7 @@
 0.0.0.0 adobemobiledev.sc.omtrdc.net
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.flurry.com
+0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 adservices.google.com
 0.0.0.0 ag.tags.crwdcntrl.net
@@ -178,6 +179,7 @@
 0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.quantserve.com
+0.0.0.0 platform.linkedin.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -222,6 +224,7 @@
 0.0.0.0 urls.api.twitter.com
 0.0.0.0 uservoice.com
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 widget.crowdynews.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.tapjoyads.com
