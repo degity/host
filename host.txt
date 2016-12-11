@@ -109,6 +109,7 @@
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 etapps.helpshift.com
+0.0.0.0 eu2.heatmap.it
 0.0.0.0 eventing.coursera.org
 0.0.0.0 events.appsflyer.com
 0.0.0.0 facebook.com
@@ -194,6 +195,7 @@
 0.0.0.0 scontent-sin1-1.xx.fbcdn.net
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scribe.twitter.com
+0.0.0.0 sdk.hansel.io
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 settings.crashlytics.com
@@ -205,6 +207,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.parsely.com
+0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 t.appsflyer.com
@@ -218,6 +221,7 @@
 0.0.0.0 tune.com
 0.0.0.0 twitter.com
 0.0.0.0 twittercounter.com
+0.0.0.0 u.heatmap.it
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 urbanairship.com
 0.0.0.0 urls.api.twitter.com
