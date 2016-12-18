@@ -75,6 +75,7 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn.crwdcntrl.net
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 celebslam.tags.crwdcntrl.net
 0.0.0.0 cf.c.ooyala.com
@@ -150,6 +151,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-a-s.apptimize.com
 0.0.0.0 mdroidapps.com
 0.0.0.0 metrics-api.librato.com
@@ -176,6 +178,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pasta.esfile.duapps.com
+0.0.0.0 ping.chartbeat.net
 0.0.0.0 pinterest.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.facebook.com
@@ -226,6 +229,7 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 urls.api.twitter.com
 0.0.0.0 urls.api.twitter.com
+0.0.0.0 user-data.apptimize.com
 0.0.0.0 uservoice.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 widget.crowdynews.com
