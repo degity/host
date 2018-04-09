@@ -1,11 +1,8 @@
-0.0.0.0 104.16.96.65
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 4053494.fls.doubleclick.net
 0.0.0.0 4236808.fls.doubleclick.net
-0.0.0.0 52.11.232.15
 0.0.0.0 7336.engine.mobileapptracking.com
-0.0.0.0 74.6.34.30
 0.0.0.0 OneDrive-Collection.device.mobileengagement.windows.net
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
@@ -51,11 +48,13 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.com
 0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 apps.skype.com
 0.0.0.0 appsflyer.com
 0.0.0.0 apsalar.com
 0.0.0.0 assets.pinterest.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bb.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
@@ -71,6 +70,7 @@
 0.0.0.0 blogtalkradio.crwdcntrl.net
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 by.uservoice.com
 0.0.0.0 by.uservoice.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn.crwdcntrl.net
@@ -191,6 +191,7 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 sandbox.duapps.com
@@ -205,6 +206,7 @@
 0.0.0.0 smarttriggerapi.moengage.com
 0.0.0.0 social.ndtv.com
 0.0.0.0 somethingawful.crwdcntrl.net
+0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.chartbeat.com
